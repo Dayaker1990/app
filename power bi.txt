@@ -1,0 +1,103 @@
+power bi: To analyse the data and convert data into visual formats where it different reports &dashboards.
+or
+power bi collection of components.
+>Power Query is ETL tool.
+>power pivot is data modeling. multiple data sources to connect them to create relationship them.
+>power visualization:
+>power bi service
+
+2.why power bi?
+>Ease of Use
+>Integration
+>Powerful Data Modeling
+>Advanced Analytics
+>Interactive Visualizations
+>Cloud and On-Premises Deployment
+>Scalability
+>Collaboration and Sharing
+>Cost-Effective
+>Community and Support
+
+power bi increasing by other tools why because search volume in google.
+maximum no features 1200 different functions.280 visuals in different charts
+cheapest cost 10 dollars per user per month.
+data connectivity 100 different sources.
+great connectivity.
+
+recognized by Gartner.
+
+How power BI works
+power BI desktop- Excel CSV, SharePoint, SQL, outlook, pdf,website
+
+power BI Service-online version 
+
+https://www.naukri.com/job-listings-operation-manager-mutual-fund-for-a-leading-fintech-company-ace-recruitment-placement-consultants-pvt-ltd-mumbai-all-areas-3-to-6-years-120624005679?src=jobsearchDesk&sid=17206919058289891_2&xp=3&px=1&nignbevent_src=jobsearchDeskGNB
+
+
+Power BI Installation
+Microsoft Power BI - Microsoft (Windows)
+MAC - Virtual
+
+	---------------------------------------------**********	-----------------------------------------------------------
+
+
+1.Why Power Bi?
+2.What is Power Bl?
+3.Features of Power Bl
+4.Components of Power BI
+5.Architecture of Power Bl
+6.Power Bl Service
+7.Power Bl Dashboard
+8.Power Bl Case Study - Meijer
+9.Power BI Demo
+
+1.Why Power Bi?
+>Power Bl allows you to view, analyze, and visualize huge quantities of data that cannot be opened in Excel. Power Bl uses powerful compression algorithms to import and cache the data within the .PBIX file
+
+Get Data
+>Access vast volumes of data from multiple sources Using Power BI with Azure allows you to analyze and share large volumes of data. With Azure data lake, you can reduce the time it takes to get insights and increase collaboration between business analysts, data engineers,
+and data scientists
+
+>Power Bl allows you to get insights from data and turn insights into actions to take data-driven business decisions.
+
+>Power Bl fetches data from factory sensors and social media sources to get access to real-time analytics so you are always ready to make timely business decisions
+
+2.What is Power Bl?
+Power Bl is a business analytics service provided by Microsoft that lets you visualize your data and share insights
+
+3.Features of Power BI
+
+>Power BI Desktop: Power Bl Desktop allows you to build reports by accessing data easily. You do not need advanced report designing, or query
+skills to build a report.
+
+>Stream analytics: From factory sensors to social media sources, Power Bl supports real-time analytics to make timely decisions
+
+>Multiple data sources: Power BI supports various sources of data such as Excel, CSV, SQL Server, Web files, etc. to create
+interactive visualizations
+
+>Custom Visualization: Power Bl's default standard might not be enough in some cases due to complex data. But you can access the custom library of visualization that meets your needs.
+
+Components of Power BI:
+>power Query: Power Query is the data transformation and mash up engine. It can be downloaded as an add-in for Excel or be used as part of Power BI Desktop
+
+>Power pivot: Power Pivot is a data modeling and calculation engine. It uses Data Analysis Expression (DAX)language to model simple and complex data
+
+>Power view: Power View is the data visualization component that can connect to data sources and can filter data for each data visualization element or for the entire report
+
+>Power MAP: Power Map is used to visualize geospatial data in 3D mode. Power Map works with Bing maps to get best visualization based on latitude, longitude or country, state, city, and street address information
+
+>Power BI Desktop: Power BI Desktop is a development tool for Power Query, Power Pivot and Power View. With Power Bl Desktop, you have everything under a same solution, and it is easier to develop Bl and data analysis experience
+
+>Power Q & A: Power is a natural language engine for questions and answers to your data model. Once you've built your data model and deployed that into Power Bl website, then you can ask questions and get answers easily
+
+>power BI services: Power Bl service is the Software as a Service (SaaS) part of Power Bl. It is also referred as Power Bl online
+you can access it from app.powerbi.com
+
+>Power BI Dashboard: The visualizations on a dashboard are generated from reports and each report is based on one dataset. A single page dashboard is known as a canvas
+>The visualizations you see on the dashboard are called tiles and are pinned to the dashboard by report designers
+>create and publish reports in power BI Dashboards:
+
+>Power Bl allows you to create different reports on Power Bl Desktop. These reports can be published on to Power Bl dashboard using Power Bl service
+
+>>Power BI architecture:
+
